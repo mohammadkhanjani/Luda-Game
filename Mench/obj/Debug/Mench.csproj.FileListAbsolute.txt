@@ -1,0 +1,26 @@
+C:\Users\sadr_researchers\Desktop\Mench\Mench\bin\Debug\Mench.exe
+C:\Users\sadr_researchers\Desktop\Mench\Mench\bin\Debug\Mench.pdb
+C:\Users\sadr_researchers\Desktop\Mench\Mench\obj\Debug\Mench.Form1.resources
+C:\Users\sadr_researchers\Desktop\Mench\Mench\obj\Debug\Mench.help.resources
+C:\Users\sadr_researchers\Desktop\Mench\Mench\obj\Debug\Mench.Properties.Resources.resources
+C:\Users\sadr_researchers\Desktop\Mench\Mench\obj\Debug\Mench.csproj.GenerateResource.Cache
+C:\Users\sadr_researchers\Desktop\Mench\Mench\obj\Debug\Mench.exe
+C:\Users\sadr_researchers\Desktop\Mench\Mench\obj\Debug\Mench.pdb
+H:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.exe
+H:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.pdb
+H:\works\خانوم نوری\Mench\Mench\bin\Debug\Mench.exe
+H:\works\خانوم نوری\Mench\Mench\bin\Debug\Mench.pdb
+H:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.csprojResolveAssemblyReference.cache
+H:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.Form1.resources
+H:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.help.resources
+H:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.Properties.Resources.resources
+H:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.csproj.GenerateResource.Cache
+D:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.exe
+D:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.pdb
+D:\works\خانوم نوری\Mench\Mench\bin\Debug\Mench.exe
+D:\works\خانوم نوری\Mench\Mench\bin\Debug\Mench.pdb
+D:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.csprojResolveAssemblyReference.cache
+D:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.Form1.resources
+D:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.help.resources
+D:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.Properties.Resources.resources
+D:\works\خانوم نوری\Mench\Mench\obj\Debug\Mench.csproj.GenerateResource.Cache
